@@ -18,4 +18,4 @@ steps:
   #    npm run build
   #  displayName: 'npm install and build'
   - publish: '$(System.DefaultWorkingDirectory)'
-    artifact: logeld_new_hos_backend
+    artifact: loEld_new_hos_backend
